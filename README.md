@@ -1,2 +1,4 @@
 # Medical-Imaging
-Classes and scripts for medical imaging.
+Laboratory Scripts and Classes for Medical Imaging - Analysis, Segmentation, Enhancement.
+
+The repository includes a Deep Learning model to generate aritificial MRI images using a low dose of contrasst medium.
